@@ -1,0 +1,37 @@
+{
+  "name": "css-layout-master-class-projects11",
+  "version": "1.0.0",
+  "description": "Clone coding a total of 11 beautiful websites in England, France, Denmark, Germany, etc.!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "browserslist": {
+    "browsers": [
+      "last 2 versions"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HICHULOG/css-layout-master-class-projects11.git"
+  },
+  "author": "HICHULOG <itchu92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HICHULOG/css-layout-master-class-projects11/issues"
+  },
+  "homepage": "https://github.com/HICHULOG/css-layout-master-class-projects11#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.21.0",
+    "gulp": "^4.0.2",
+    "del": "^4.1.1"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^8.0.0"
+  }
+}
