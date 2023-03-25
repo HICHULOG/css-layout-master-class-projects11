@@ -5,7 +5,7 @@ Clone coding a total of 11 beautiful websites in England, France, Denmark, Germa
 # List of clone coding websites
 
 - [x] (영화 웹)https://besthorrorscenes.com ➡ commit "Best Horror Scenes Coding"
-- [ ] (쇼핑몰) https://paint-box.com
+- [x] (쇼핑몰) https://paint-box.com ➡ commit "Paint Box Coding"
 - [ ] (포트폴리오) http://10x19.co/
 - [ ] (포트폴리오. 프랑스) http://www.z-o-o.fr/
 - [ ] (쇼핑+포트폴리오. 호주) https://schwartzmedia.com.au
