@@ -1,6 +1,6 @@
 @import "_reset";
 @import "_variables";
-@import "_titles.scss";
+@import "_titles";
 
 // font-family: 'Caladea', serif;
 // font-family: 'Montserrat', sans-serif;
@@ -25,7 +25,7 @@ body {
     color: $black;
 }
 
-body>*:not(.footer) {
+body > *:not(.footer) {
     padding: 0px $sideSpace;
 }
 
@@ -35,7 +35,6 @@ header {
     width: 100%;
     top: 0;
     left: 0;
-    padding: 0px $sideSpace;
     background-color: white;
     height: 70px;
     display: flex;
@@ -60,18 +59,17 @@ header {
 
 
 .hero {
-    width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-        url("https://tinyurl.com/2kp457gl");
+      url("https://cdn.shopify.com/s/files/1/0086/4865/4895/files/Web_Banner-desktop_0.75x_1600x929_crop_center.jpg?v=1679464254");
     background-size: cover;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     color: white;
+    margin: 0px $sideSpace;
     margin-bottom: 80px;
-
     h4 {
         @extend %miniTitle;
         margin-bottom: 30px;
