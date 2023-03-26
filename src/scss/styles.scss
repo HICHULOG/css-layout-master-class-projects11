@@ -73,12 +73,15 @@ main {
         height: auto;
       }
       div {
-        height: 32px;
+        height: 2rem;
         display: flex;
         align-items: center;
         text-transform: uppercase;
         padding:0px 12px;
         box-sizing: border-box;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
         h3 {
           font-size: 14px;
         }
