@@ -7,7 +7,7 @@ Clone coding a total of 11 beautiful websites in England, France, Denmark, Germa
 - [x] (영화 웹)https://besthorrorscenes.com ➡ commit "Best Horror Scenes Coding"
 - [x] (쇼핑몰) https://paint-box.com ➡ commit "Paint Box Coding"
 - [x] (포트폴리오) http://10x19.co/ ➡ commit "10x19 Coding"
-- [ ] (포트폴리오. 프랑스) http://www.z-o-o.fr/
+- [x] (포트폴리오. 프랑스) http://www.z-o-o.fr/ ➡ commit "Zoo Coding"
 - [ ] (쇼핑+포트폴리오. 호주) https://schwartzmedia.com.au
 - [ ] (쇼핑몰. 덴마크) https://tolv.dk
 - [ ] (포트폴리오) https://rodicdavidson.co.uk
