@@ -13,5 +13,5 @@ Clone coding a total of 11 beautiful websites in England, France, Denmark, Germa
 - [x] (포트폴리오) https://rodicdavidson.co.uk ➡ commit "Rodic Davidson Coding"
 - [x] (포트폴리오. 독일) https://beige.de ➡ commit "Beige Coding"
 - [x] (개인. 이력서) https://donicaida.com ➡ commit "Donica Coding"
-- [ ] (단체 소개 웹) https://canalstreet.market
+- [x] (단체 소개 웹) https://canalstreet.market ➡ commit "Canal Street Market Coding"
 - [ ] (쇼핑몰) https://wonhundred.com/
