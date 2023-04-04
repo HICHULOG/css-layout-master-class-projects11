@@ -11,7 +11,7 @@ Clone coding a total of 11 beautiful websites in England, France, Denmark, Germa
 - [x] (쇼핑+포트폴리오. 호주) https://schwartzmedia.com.au ➡ commit "Schwartz Coding"
 - [x] (쇼핑몰. 덴마크) https://tolv.dk ➡ commit "Tolv Coding"
 - [x] (포트폴리오) https://rodicdavidson.co.uk ➡ commit "Rodic Davidson Coding"
-- [ ] (포트폴리오. 독일) https://beige.de
-- [ ] (개인. 이력서) https://donicaida.com
+- [x] (포트폴리오. 독일) https://beige.de ➡ commit "Beige Coding"
+- [x] (개인. 이력서) https://donicaida.com ➡ commit "Donica Coding"
 - [ ] (단체 소개 웹) https://canalstreet.market
 - [ ] (쇼핑몰) https://wonhundred.com/
